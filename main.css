@@ -1,0 +1,13 @@
+#contents.ytd-rich-grid-renderer {
+  flex-direction: column !important;
+}
+#masthead-container#container {
+  display: none !important;
+}
+#secondary-inner {
+  min-width: var(--ytd-watch-flexy-min-player-width) !important;
+  max-width: var(--ytd-watch-flexy-min-player-width) !important;
+}
+#title {
+  margin-top: 0.8rem !important;
+}
